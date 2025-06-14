@@ -1,5 +1,3 @@
 <Response>
-  <Connect>
-    <Number>+19787986094</Number> <!-- Replace with Twilio number -->
-  </Connect>
+  <Say>If you are hearing this, Exotel fetched this XML correctly</Say>
 </Response>
