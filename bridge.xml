@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say>If you are hearing this, Exotel fetched this XML correctly</Say>
+    <Say>Connecting you to the next available line</Say>
+    <Connect>
+        <Number>+19787986094</Number> <!-- Twilio Number -->
+    </Connect>
 </Response>
